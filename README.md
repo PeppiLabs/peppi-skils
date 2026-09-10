@@ -13,7 +13,7 @@ them are ones that actually cost a rebuild rather than ones a doc warned about.
 **As a plugin** (updates arrive by pulling the repo):
 
 ```
-/plugin marketplace add PeppiLabs/skills
+/plugin marketplace add PeppiLabs/peppi-skils
 /plugin install peppi-skills@peppi-skills
 ```
 

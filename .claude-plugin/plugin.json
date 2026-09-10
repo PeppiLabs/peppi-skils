@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": { "name": "Peppi Labs", "url": "https://www.peppilabs.net" },
   "homepage": "https://www.peppilabs.net",
-  "repository": "https://github.com/PeppiLabs/skills",
+  "repository": "https://github.com/PeppiLabs/peppi-skils",
   "license": "Apache-2.0",
   "keywords": ["app-store", "google-play", "launch", "screenshots", "listing"]
 }
