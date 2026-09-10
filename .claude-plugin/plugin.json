@@ -1,0 +1,10 @@
+{
+  "name": "peppi-skills",
+  "description": "Skills published by Peppi Labs. First up: launchkit — a complete, ready-to-upload App Store and Google Play launch kit.",
+  "version": "1.0.0",
+  "author": { "name": "Peppi Labs", "url": "https://www.peppilabs.net" },
+  "homepage": "https://www.peppilabs.net",
+  "repository": "https://github.com/PeppiLabs/skills",
+  "license": "Apache-2.0",
+  "keywords": ["app-store", "google-play", "launch", "screenshots", "listing"]
+}

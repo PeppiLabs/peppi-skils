@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "peppi-skills",
+  "description": "Skills published by Peppi Labs.",
+  "owner": { "name": "Peppi Labs", "url": "https://www.peppilabs.net" },
+  "plugins": [
+    {
+      "name": "peppi-skills",
+      "description": "Skills published by Peppi Labs. First up: launchkit — a complete, ready-to-upload App Store and Google Play launch kit.",
+      "author": { "name": "Peppi Labs", "url": "https://www.peppilabs.net" },
+      "license": "Apache-2.0",
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}
