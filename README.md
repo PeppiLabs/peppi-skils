@@ -10,11 +10,11 @@ them are ones that actually cost a rebuild rather than ones a doc warned about.
 
 ## Installing
 
-**As a plugin** (updates arrive by pulling the repo):
+**As a plugin** — add the marketplace once, then install skills by name:
 
 ```
 /plugin marketplace add PeppiLabs/peppi-skils
-/plugin install peppi-skills@peppi-skills
+/plugin install launchkit@peppi-skills
 ```
 
 **By hand:** copy the folders under `skills/` into `~/.claude/skills/`.
@@ -47,6 +47,10 @@ Validate a skill before committing it:
 ```bash
 python3 scripts/validate.py skills/launchkit
 ```
+
+## Disclaimer
+
+These skills are provided as-is. Test them in your own environment before relying on them for a real submission.
 
 ## Licence
 
